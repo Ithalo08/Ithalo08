@@ -46,5 +46,5 @@ Estudo tecnologia e gosto de usá-la para organizar a vida, os negócios e as pe
 
 ## 📫 Contato
 
-- LinkedIn: [https://www.linkedin.com/in/ithalovinicius/]
+- LinkedIn: https://www.linkedin.com/in/ithalovinicius/
 - E-mail: ithalovinicius09@gmail.com
