@@ -17,14 +17,14 @@ Estudo tecnologia e gosto de usá-la para organizar a vida, os negócios e as pe
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 > Em construção. Estou subindo aqui meus projetos mais recentes.
 
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,7 +36,7 @@ Estudo tecnologia e gosto de usá-la para organizar a vida, os negócios e as pe
 
 ---
 
-## 📚 Aprendendo agora
+##  Aprendendo agora
 
 - Engenharia de Dados
 - Fundamentos de Inteligência Artificial 
@@ -44,7 +44,7 @@ Estudo tecnologia e gosto de usá-la para organizar a vida, os negócios e as pe
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - LinkedIn: https://www.linkedin.com/in/ithalovinicius/
 - E-mail: ithalovinicius09@gmail.com
